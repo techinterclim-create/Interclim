@@ -1,0 +1,49 @@
+export function About() {
+  return (
+    <section id="sobre" className="about section-pad" aria-labelledby="about-title">
+      <div className="site-container about-grid">
+        <div className="about-copy">
+          <span className="eyebrow">Sobre a Interclim</span>
+          <h2 id="about-title" className="display section-heading">
+            Interclim: Uma Jornada de 20 Anos Rumo à Excelência em Cuidados de Saúde e Bem-Estar
+          </h2>
+          <p className="about-intro">
+            Uma clínica que cresceu sem perder de vista o que realmente importa: cuidar de pessoas.
+          </p>
+          <p>
+            A Interclim nasceu em 2003 do empreendedorismo do pai de duas filhas apaixonadas pela saúde.
+            Começou modestamente em uma casa reformada com apenas 4 consultórios. Ao longo de 20 anos,
+            cresceu exponencialmente, agora uma sólida estrutura com cinco vezes o tamanho inicial.
+          </p>
+          <p>
+            Apesar dos recursos escassos, a empresa se estabeleceu com serviço de qualidade, boca a boca
+            e o desejo de proporcionar cuidados de saúde acessíveis.
+          </p>
+          <p>
+            Com a expansão, aumentou o número de funcionários e implementou atendimento informatizado e
+            personalizado. Melhorou a interação entre profissionais e clientes, investindo na estrutura,
+            conforto e atividades para o bem-estar.
+          </p>
+          <p>
+            Sobreviveu à pandemia de 2020, oferecendo saúde e socorro quando outros serviços estavam
+            sobrecarregados.
+          </p>
+          <p>
+            Hoje, após 20 anos de dedicação, a Interclim continua encantando e sendo reconhecida pelo seu cuidado.
+          </p>
+        </div>
+        <aside aria-label="Destaques institucionais">
+          <p className="about-callout">
+            “O desejo de proporcionar cuidados de saúde acessíveis” acompanha a Interclim desde o início.
+          </p>
+          <div className="fact-list">
+            <div className="fact"><strong>Desde 2003</strong><span>Uma história construída com dedicação.</span></div>
+            <div className="fact"><strong>Mais de 20 anos</strong><span>De história em cuidados de saúde e bem-estar.</span></div>
+            <div className="fact"><strong>Informatizado</strong><span>Atendimento informatizado e personalizado.</span></div>
+            <div className="fact"><strong>Qualidade e cuidado</strong><span>Um compromisso que atravessa toda a jornada.</span></div>
+          </div>
+        </aside>
+      </div>
+    </section>
+  );
+}
