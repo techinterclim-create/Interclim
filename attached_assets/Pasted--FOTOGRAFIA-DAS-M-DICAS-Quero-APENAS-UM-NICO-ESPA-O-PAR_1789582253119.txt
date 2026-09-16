@@ -1,0 +1,79 @@
+### FOTOGRAFIA DAS MÉDICAS
+
+Quero **APENAS UM ÚNICO ESPAÇO PARA FOTOGRAFIA EM TODO O SITE**.
+
+A fotografia será uma única foto da **Dra. Daniele Bessa e da Dra. Isabela Bessa juntas**.
+
+* Não criar fotos individuais das médicas.
+* Não criar outros espaços para fotos.
+* Não utilizar imagens de banco, fotos fictícias ou imagens geradas.
+* A única fotografia deve ficar na seção **Direção**.
+* Criar um espaço elegante e responsivo para inserir posteriormente a foto das duas médicas juntas.
+* Preservar a proporção e a qualidade original da imagem.
+* Aplicar apenas uma animação sutil de entrada (`fade-in` + leve `scale`).
+
+### ANIMAÇÕES
+
+Não quero textos e elementos estáticos. **Adicione movimento em todos os textos e elementos importantes do site**, mantendo uma aparência sofisticada.
+
+Utilizar:
+
+* `fade-in` + `slide-up` nos títulos e textos.
+* Animação de entrada ao aparecerem na tela durante o scroll.
+* Animações escalonadas entre textos e elementos de uma mesma seção.
+* Microinterações nos botões.
+* Hover suave nos cards.
+* Transições fluidas entre estados.
+* Animação suave no menu mobile.
+* Header com transição discreta durante o scroll.
+
+As animações devem ser rápidas, suaves e elegantes, sem exageros.
+
+### CONTATO
+
+A seção de contato está ficando com todas as informações grudadas. **Organize cada contato em seu próprio card/bloco**, com bastante espaçamento e hierarquia visual.
+
+Título: **Entre em contato**
+
+Texto:
+**Estamos à disposição para informações, agendamentos e atendimento.**
+
+Criar **4 cards independentes**, responsivos:
+
+**1. Telefone**
+
+* Ícone de telefone
+* Título: Telefone
+* Número: `(83) 3292-2900`
+* Botão/link: **Ligar agora**
+* Link: `tel:+558332922900`
+
+**2. WhatsApp**
+
+* Ícone do WhatsApp
+* Título: WhatsApp
+* Número: `(83) 98128-4599`
+* Botão/link: **Falar pelo WhatsApp**
+* Link: `https://wa.me/5583981284599`
+
+**3. Instagram**
+
+* Ícone do Instagram
+* Título: Instagram
+* `@interclimoficial`
+* Botão/link: **Acessar Instagram**
+* Link: `https://instagram.com/interclimoficial`
+
+**4. Endereço**
+
+* Ícone de localização
+* Título: Onde estamos
+* `R. Dom Vital, 127, Mamanguape - PB, 58280-000`
+* Botão/link: **Ver no mapa**
+
+No desktop, organizar os cards em uma grade elegante.
+No mobile, empilhar os cards verticalmente.
+
+Cada card deve ter sua própria animação de entrada, com leve `fade-in` + `slide-up`, aparecendo de forma escalonada.
+
+Os dados **CRM: 0002565-PB** e **CNPJ: 05.808.760/0001-43** devem aparecer separadamente, de forma discreta, e não misturados com os cards de contato.

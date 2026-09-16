@@ -35,32 +35,31 @@ export function Leadership() {
             A Interclim é conduzida por uma direção próxima, dedicada à continuidade de uma história de cuidado.
           </p>
         </div>
-        <div className="director-list" aria-label="Direção da Interclim" data-scroll-reveal>
-          <div className="director">
-            <span className="director-number">01</span>
+        <div className="director-area">
+          <div className="director-photo-frame" data-scroll-reveal>
             <DirectorPhoto
-              src="/images/daniele-bessa.jpg"
-              alt="Dra. Daniele Bessa"
-              label="Foto da Dra. Daniele"
+              src="/images/direcao.jpg"
+              alt="Dra. Daniele Bessa e Dra. Isabela Bessa juntas"
+              label="Foto das médicas"
             />
-            <div className="director-info">
-              <h3>Dra. Daniele Bessa</h3>
-              <span className="director-note">Direção</span>
-            </div>
-            <ArrowUpRight size={18} aria-hidden="true" />
           </div>
-          <div className="director">
-            <span className="director-number">02</span>
-            <DirectorPhoto
-              src="/images/isabela-bessa.jpg"
-              alt="Dra. Isabela Bessa"
-              label="Foto da Dra. Isabela"
-            />
-            <div className="director-info">
-              <h3>Dra. Isabela Bessa</h3>
-              <span className="director-note">Direção</span>
+          <div className="director-list" aria-label="Direção da Interclim">
+            <div className="director" data-scroll-reveal>
+              <span className="director-number">01</span>
+              <div className="director-info">
+                <h3>Dra. Daniele Bessa</h3>
+                <span className="director-note">Direção</span>
+              </div>
+              <ArrowUpRight size={18} aria-hidden="true" />
             </div>
-            <ArrowUpRight size={18} aria-hidden="true" />
+            <div className="director" data-scroll-reveal>
+              <span className="director-number">02</span>
+              <div className="director-info">
+                <h3>Dra. Isabela Bessa</h3>
+                <span className="director-note">Direção</span>
+              </div>
+              <ArrowUpRight size={18} aria-hidden="true" />
+            </div>
           </div>
         </div>
       </div>
