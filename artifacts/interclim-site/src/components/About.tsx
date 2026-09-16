@@ -2,7 +2,7 @@ export function About() {
   return (
     <section id="sobre" className="about section-pad" aria-labelledby="about-title">
       <div className="site-container about-grid">
-        <div className="about-copy">
+        <div className="about-copy" data-scroll-reveal>
           <span className="eyebrow">Sobre a Interclim</span>
           <h2 id="about-title" className="display section-heading">
             Interclim: Uma Jornada de 20 Anos Rumo à Excelência em Cuidados de Saúde e Bem-Estar
@@ -32,7 +32,7 @@ export function About() {
             Hoje, após 20 anos de dedicação, a Interclim continua encantando e sendo reconhecida pelo seu cuidado.
           </p>
         </div>
-        <aside aria-label="Destaques institucionais">
+        <aside aria-label="Destaques institucionais" data-scroll-reveal>
           <p className="about-callout">
             “O desejo de proporcionar cuidados de saúde acessíveis” acompanha a Interclim desde o início.
           </p>

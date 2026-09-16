@@ -46,7 +46,7 @@ export function Services() {
   return (
     <section id="servicos" className="services section-pad" aria-labelledby="services-title">
       <div className="site-container">
-        <div className="services-head">
+        <div className="services-head" data-scroll-reveal>
           <div>
             <span className="eyebrow">Cuidado especializado</span>
             <h2 id="services-title" className="display">Especialidades e Serviços</h2>
@@ -55,7 +55,7 @@ export function Services() {
             Diferentes áreas de cuidado, reunidas em um só lugar para tornar sua jornada mais simples e próxima.
           </p>
         </div>
-        <div className="service-grid">
+        <div className="service-grid" data-scroll-reveal>
           {services.map(({ name, icon: Icon }) => (
             <article className="service-card" key={name}>
               <div className="service-icon"><Icon size={15} aria-hidden="true" /></div>

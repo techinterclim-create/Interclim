@@ -4,7 +4,7 @@ export function Contact() {
   return (
     <section id="contato" className="contact section-pad" aria-labelledby="contact-title">
       <div className="site-container contact-grid">
-        <div>
+        <div data-scroll-reveal>
           <span className="eyebrow">Fale com a Interclim</span>
           <h2 id="contact-title" className="display section-heading">Estamos em Mamanguape para receber você.</h2>
           <p className="section-heading">
@@ -20,7 +20,7 @@ export function Contact() {
             </a>
           </div>
         </div>
-        <div>
+        <div data-scroll-reveal>
           <div className="contact-details">
             <div className="contact-detail">
               <strong>Endereço</strong>

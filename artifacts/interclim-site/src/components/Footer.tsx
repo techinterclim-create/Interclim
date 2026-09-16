@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer className="footer">
       <div className="site-container">
-        <div className="footer-grid">
+        <div className="footer-grid" data-scroll-reveal>
           <div>
             <Logo />
             <p className="footer-description">Clínica Médica de Diagnóstico, Especialidades Médicas e Afins</p>
