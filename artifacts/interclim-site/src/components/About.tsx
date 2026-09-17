@@ -2,33 +2,34 @@ export function About() {
   return (
     <section id="sobre" className="about section-pad" aria-labelledby="about-title">
       <div className="site-container about-grid">
-        <div className="about-copy" data-scroll-reveal>
-          <span className="eyebrow">Sobre a Interclim</span>
-          <h2 id="about-title" className="display section-heading">
+        <div className="about-copy">
+          <span className="eyebrow" data-scroll-reveal>Sobre a Interclim</span>
+          <h2 id="about-title" className="display section-heading" data-scroll-reveal>
             Interclim: Uma Jornada de 20 Anos Rumo à Excelência em Cuidados de Saúde e Bem-Estar
           </h2>
-          <p className="about-intro">
+          <p className="about-intro" data-scroll-reveal>
             Uma clínica que cresceu sem perder de vista o que realmente importa: cuidar de pessoas.
           </p>
-          <p>
-            A Interclim nasceu em 2003 do empreendedorismo do pai de duas filhas apaixonadas pela saúde.
-            Começou modestamente em uma casa reformada com apenas 4 consultórios. Ao longo de 20 anos,
-            cresceu exponencialmente, agora uma sólida estrutura com cinco vezes o tamanho inicial.
+          <p data-scroll-reveal>
+            A Interclim nasceu em 2003, a partir do empreendedorismo do pai de duas filhas apaixonadas
+            pela saúde. Inicialmente, funcionava em uma casa reformada, com apenas quatro consultórios.
+            Ao longo de 20 anos, cresceu exponencialmente e alcançou uma estrutura sólida, cinco vezes
+            maior que a inicial.
           </p>
-          <p>
+          <p data-scroll-reveal>
             Apesar dos recursos escassos, a empresa se estabeleceu com serviço de qualidade, boca a boca
             e o desejo de proporcionar cuidados de saúde acessíveis.
           </p>
-          <p>
+          <p data-scroll-reveal>
             Com a expansão, aumentou o número de funcionários e implementou atendimento informatizado e
             personalizado. Melhorou a interação entre profissionais e clientes, investindo na estrutura,
             conforto e atividades para o bem-estar.
           </p>
-          <p>
+          <p data-scroll-reveal>
             Sobreviveu à pandemia de 2020, oferecendo saúde e socorro quando outros serviços estavam
             sobrecarregados.
           </p>
-          <p>
+          <p data-scroll-reveal>
             Hoje, após 20 anos de dedicação, a Interclim continua encantando e sendo reconhecida pelo seu cuidado.
           </p>
         </div>

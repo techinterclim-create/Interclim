@@ -421,6 +421,7 @@ button:focus-visible, a:focus-visible {
 
 .site-container {
   width: min(1180px, calc(100% - 40px));
+  max-width: 100%;
   margin: 0 auto;
 }
 
@@ -487,6 +488,8 @@ button:focus-visible, a:focus-visible {
   position: fixed;
   z-index: 50;
   top: 0;
+  right: 0;
+  left: 0;
   width: 100%;
   border-bottom: 1px solid transparent;
   background: rgba(248, 251, 250, 0.72);
@@ -648,6 +651,7 @@ button:focus-visible, a:focus-visible {
 
 .hero {
   position: relative;
+  overflow: hidden;
   min-height: 700px;
   display: flex;
   align-items: center;
@@ -820,6 +824,7 @@ button:focus-visible, a:focus-visible {
 
 .about-grid {
   display: grid;
+  min-width: 0;
   gap: 52px;
   align-items: start;
 }
@@ -832,6 +837,12 @@ button:focus-visible, a:focus-visible {
 }
 
 .about-copy p + p { margin-top: 17px; }
+
+.about-copy,
+.about-copy p,
+.about-copy h2 {
+  min-width: 0;
+}
 
 .about-intro {
   margin: 0 0 30px;
@@ -910,6 +921,7 @@ button:focus-visible, a:focus-visible {
 
 .service-card {
   display: flex;
+  min-width: 0;
   min-height: 146px;
   flex-direction: column;
   justify-content: space-between;
@@ -1044,6 +1056,8 @@ button:focus-visible, a:focus-visible {
 
 .contact-card {
   display: grid;
+  min-width: 0;
+  grid-template-rows: auto auto minmax(48px, 1fr) auto;
   min-height: 230px;
   align-content: start;
   gap: 12px;

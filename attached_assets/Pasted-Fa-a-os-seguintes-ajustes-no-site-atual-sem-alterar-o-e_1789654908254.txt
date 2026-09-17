@@ -1,0 +1,152 @@
+Faça os seguintes ajustes no site atual, **sem alterar o estilo visual, a identidade, a paleta de cores ou a estrutura das outras seções**:
+
+### 1. CORRIGIR RESPONSIVIDADE MOBILE
+
+Na versão mobile está acontecendo um problema de layout: ao fazer scroll, a página se movimenta horizontalmente e aparece um **espaço branco na lateral direita**.
+
+Corrigir completamente esse problema.
+
+* O site deve ocupar **100% da largura da tela**.
+* Não pode existir scroll horizontal.
+* Remover qualquer elemento causando overflow horizontal.
+* Verificar `width`, `max-width`, `margin`, `padding`, `position`, `transform`, imagens, cards e animações que estejam ultrapassando a largura da viewport.
+* Aplicar `overflow-x: hidden` no nível adequado, mas **não usar isso apenas como solução superficial**: identificar e corrigir o elemento que está causando o overflow.
+* Garantir que nenhuma animação ou elemento posicionado fora da tela crie deslocamento horizontal.
+* Testar principalmente em telas de celular.
+
+### 2. NAVBAR FIXA NO SCROLL
+
+A navbar/header deve permanecer **fixa no topo da tela durante todo o scroll**.
+
+* Usar `position: sticky` ou `position: fixed`, conforme a estrutura atual.
+* Manter o header sempre visível.
+* Não deixar o conteúdo passar por cima da navbar.
+* Adicionar uma transição suave no header durante o scroll.
+* No mobile, o menu hamburguer também deve continuar funcionando normalmente.
+* Garantir que a navbar não provoque overflow horizontal.
+
+### 3. CORRIGIR ESPAÇAMENTO DO CONTATO/FOOTER
+
+Na seção de contato/footer, as informações estão ficando **todas grudadas na mesma linha**, como mostrado na imagem de referência.
+
+Corrigir completamente a organização.
+
+Cada informação deve ficar visualmente separada, com **espaçamento adequado, quebra de linha e hierarquia**.
+
+Organizar assim:
+
+**CONTATO**
+
+**Telefone**
+(83) 3292-2900
+Ligar agora ↗
+
+**WhatsApp**
+(83) 98128-4599
+Falar pelo WhatsApp ↗
+
+**Instagram**
+@interclimoficial
+Acessar Instagram ↗
+
+**Endereço**
+R. Dom Vital, 127, Mamanguape - PB, 58280-000
+Ver no mapa ↗
+
+No desktop, usar uma grade organizada.
+No mobile, empilhar os itens verticalmente.
+
+**Nunca deixar Telefone, WhatsApp e Instagram colados na mesma linha.**
+
+Adicionar espaçamento consistente entre:
+
+* título;
+* nome do contato;
+* número/usuário;
+* botão ou link;
+* cada card/bloco.
+
+O CRM e o CNPJ também devem ficar separados dos contatos principais.
+
+### 4. CORRIGIR O TEXTO "SOBRE A INTERCLIM"
+
+O primeiro parágrafo da seção **Sobre a Interclim** está visualmente e textualmente pouco natural.
+
+Reescreva o conteúdo para ficar **mais elegante, fluido, institucional e agradável de ler**, mantendo exatamente as informações fornecidas e **sem inventar ou acrescentar fatos**.
+
+Manter o título:
+
+**Interclim: Uma Jornada de 20 Anos Rumo à Excelência em Cuidados de Saúde e Bem-Estar**
+
+Usar este conteúdo como base:
+
+> A Interclim nasceu em 2003 do empreendedorismo do pai de duas filhas apaixonadas pela saúde. Começou modestamente em uma casa reformada com apenas 4 consultórios. Ao longo de 20 anos, cresceu exponencialmente, agora uma sólida estrutura com cinco vezes o tamanho inicial. Apesar dos recursos escassos, a empresa se estabeleceu com serviço de qualidade, boca a boca e o desejo de proporcionar cuidados de saúde acessíveis. Com a expansão, aumentou o número de funcionários e implementou atendimento informatizado e personalizado. Melhorou a interação entre profissionais e clientes, investindo na estrutura, conforto e atividades para o bem-estar. Sobreviveu à pandemia de 2020, oferecendo saúde e socorro quando outros serviços estavam sobrecarregados. Hoje, após 20 anos de dedicação, a Interclim continua encantando e sendo reconhecida pelo seu cuidado.
+
+**IMPORTANTE:** melhorar principalmente o primeiro parágrafo, corrigindo a construção das frases e deixando a narrativa mais natural. Não alterar o sentido da história e não criar informações que não estejam no texto original.
+
+Também melhorar a **formatação visual do texto**, evitando um bloco de texto pesado. Utilizar parágrafos bem separados, largura de leitura confortável e espaçamento adequado.
+
+Aplicar animação `fade-in` + `slide-up` de forma suave nos parágrafos durante o scroll.
+
+### 5. ESPECIALIDADES E SERVIÇOS
+
+Na lista de especialidades/serviços:
+
+**REMOVER:**
+
+* Psiquiatria
+
+**ADICIONAR:**
+
+* Saúde Mental
+
+Não adicionar nenhuma outra especialidade além das já existentes.
+
+### 6. SEÇÃO DIREÇÃO
+
+Na seção **Direção**, manter:
+
+* Dra. Daniele Bessa
+* Dra. Isabela Bessa
+
+Remover as **setas/ícones que aparecem na lateral dos nomes das médicas**.
+
+Os nomes devem permanecer limpos, sem essas setas laterais.
+
+Manter apenas **um único espaço para fotografia**, destinado à foto da Dra. Daniele Bessa e da Dra. Isabela Bessa juntas.
+
+Não criar fotos individuais.
+
+### 7. ANIMAÇÕES
+
+Manter as animações existentes e garantir que **todos os textos e elementos importantes tenham movimento**, porém sem exagero.
+
+Usar animações suaves como:
+
+* `fade-in`;
+* `slide-up`;
+* `stagger`;
+* reveal durante o scroll;
+* microinterações nos botões;
+* hover suave nos cards.
+
+**IMPORTANTE:** nenhuma animação pode causar overflow horizontal ou fazer a página se deslocar lateralmente no celular.
+
+### 8. TESTE FINAL
+
+Depois das alterações, testar o site inteiro em modo mobile e desktop para garantir:
+
+* zero espaço branco lateral;
+* zero scroll horizontal;
+* navbar fixa durante o scroll;
+* textos sem sobreposição;
+* cards dentro da viewport;
+* seção Sobre bem formatada;
+* contato corretamente espaçado;
+* especialidade "Psiquiatria" removida;
+* "Saúde Mental" adicionada;
+* setas laterais das médicas removidas;
+* apenas um espaço para a foto das duas médicas;
+* todas as animações funcionando sem quebrar o layout.
+
+**Não refaça o design do site. Faça apenas essas correções e melhorias, preservando o visual atual.**

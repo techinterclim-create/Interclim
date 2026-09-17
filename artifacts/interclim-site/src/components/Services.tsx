@@ -24,7 +24,7 @@ const services: { name: string; icon: LucideIcon }[] = [
   { name: 'Fonoaudiologia', icon: Ear },
   { name: 'Ginecologia', icon: Syringe },
   { name: 'Medicina do trabalho', icon: Footprints },
-  { name: 'Psiquiatria', icon: Brain },
+  { name: 'Saúde Mental', icon: Brain },
   { name: 'Psicologia', icon: Eye },
   { name: 'Otorrinolaringologia', icon: Ear },
   { name: 'Ortopedia e traumatologia', icon: Footprints },

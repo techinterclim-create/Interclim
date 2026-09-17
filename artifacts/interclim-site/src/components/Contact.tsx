@@ -35,7 +35,7 @@ export function Contact() {
           </div>
           <div className="contact-card" data-scroll-reveal>
             <MapPin size={21} aria-hidden="true" />
-            <strong>Onde estamos</strong>
+            <strong>Endereço</strong>
             <span>R. Dom Vital, 127, Mamanguape - PB, 58280-000</span>
             <a
               href="https://www.google.com/maps/search/?api=1&query=R.+Dom+Vital%2C+127%2C+Mamanguape+-+PB%2C+58280-000"

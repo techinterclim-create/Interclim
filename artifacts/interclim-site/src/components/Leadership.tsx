@@ -1,4 +1,3 @@
-import { ArrowUpRight } from 'lucide-react';
 import { useState } from 'react';
 
 type DirectorPhotoProps = {
@@ -50,7 +49,6 @@ export function Leadership() {
                 <h3>Dra. Daniele Bessa</h3>
                 <span className="director-note">Direção</span>
               </div>
-              <ArrowUpRight size={18} aria-hidden="true" />
             </div>
             <div className="director" data-scroll-reveal>
               <span className="director-number">02</span>
@@ -58,7 +56,6 @@ export function Leadership() {
                 <h3>Dra. Isabela Bessa</h3>
                 <span className="director-note">Direção</span>
               </div>
-              <ArrowUpRight size={18} aria-hidden="true" />
             </div>
           </div>
         </div>
