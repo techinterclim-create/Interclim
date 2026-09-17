@@ -1,0 +1,49 @@
+Faça estes dois ajustes específicos no site atual, **sem alterar o restante do design ou das outras seções**:
+
+### 1. SEÇÃO "SOBRE A CLÍNICA"
+
+Na seção **Sobre a Clínica**, remover completamente o seguinte título/parágrafo:
+
+**"Interclim: Uma Jornada de 20 Anos Rumo à Excelência em Cuidados de Saúde e Bem-Estar"**
+
+Não substituir por outro título equivalente.
+A seção deve seguir diretamente com o conteúdo institucional da história da Interclim, mantendo o texto já existente.
+
+Organizar o conteúdo de forma mais limpa e elegante, com:
+
+* boa hierarquia visual;
+* parágrafos bem separados;
+* espaçamento confortável;
+* largura de texto adequada para leitura;
+* animação suave de entrada nos textos durante o scroll.
+
+### 2. FOTO DA DRA. DANIELE E DRA. ISABELA
+
+Na seção **Direção**, ajustar o layout do espaço destinado à única foto das médicas.
+
+A foto das **Dra. Daniele Bessa e Dra. Isabela Bessa juntas** deve ser apresentada em um **formato vertical/portrait**, ocupando todo o espaço destinado à imagem.
+
+O objetivo é que a fotografia **preencha completamente o bloco**, sem deixar aquele espaço/faixa verde sobrando nas laterais.
+
+Ajustar o container da imagem para:
+
+* utilizar proporção vertical;
+* ocupar 100% da largura e altura disponível do bloco;
+* não deixar áreas vazias nas laterais;
+* manter a imagem visualmente equilibrada;
+* preservar a qualidade da fotografia;
+* utilizar `object-fit: cover` se necessário para preencher completamente o espaço;
+* manter o posicionamento da foto adequado, evitando cortar os rostos das médicas.
+
+**IMPORTANTE:** não criar uma nova foto, não adicionar outra imagem e não alterar a fotografia. Apenas adaptar o **layout/container** para que a imagem vertical preencha todo o espaço disponível.
+
+A foto deve continuar sendo **a única fotografia do site**.
+
+### RESULTADO ESPERADO
+
+* Remover o título "Interclim: Uma Jornada de 20 Anos Rumo à Excelência em Cuidados de Saúde e Bem-Estar".
+* Manter o conteúdo da história da Interclim.
+* Foto das duas médicas em formato vertical.
+* Foto preenchendo completamente o espaço destinado à imagem.
+* Nenhuma faixa ou espaço verde sobrando nas laterais da foto.
+* Manter o restante do site exatamente como está.

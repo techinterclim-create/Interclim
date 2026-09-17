@@ -1,12 +1,9 @@
 export function About() {
   return (
-    <section id="sobre" className="about section-pad" aria-labelledby="about-title">
+    <section id="sobre" className="about section-pad" aria-label="Sobre a Interclim">
       <div className="site-container about-grid">
         <div className="about-copy">
           <span className="eyebrow" data-scroll-reveal>Sobre a Interclim</span>
-          <h2 id="about-title" className="display section-heading" data-scroll-reveal>
-            Interclim: Uma Jornada de 20 Anos Rumo à Excelência em Cuidados de Saúde e Bem-Estar
-          </h2>
           <p className="about-intro" data-scroll-reveal>
             Uma clínica que cresceu sem perder de vista o que realmente importa: cuidar de pessoas.
           </p>
