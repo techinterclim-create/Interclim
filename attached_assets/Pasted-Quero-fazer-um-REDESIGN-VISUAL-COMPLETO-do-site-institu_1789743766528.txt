@@ -1,0 +1,228 @@
+Quero fazer um REDESIGN VISUAL COMPLETO do site institucional da InterClim, mantendo todo o conteúdo, textos, funcionalidades, estrutura, navegação e responsividade existentes. NÃO altere informações, links, formulários ou funcionalidades. A mudança deve ser principalmente VISUAL.
+
+OBJETIVO:
+Transformar o site em um site de clínica médica moderno, sofisticado, acolhedor, confiável e profissional. Quero fugir do visual hospitalar genérico de azul e branco e criar uma identidade visual premium usando AZUL PETRÓLEO + OFF-WHITE + BEGE.
+
+PALETA DE CORES:
+
+Cor principal — Azul petróleo:
+#0E5C55
+
+Azul petróleo escuro:
+#083F3B
+
+Azul petróleo médio:
+#176F67
+
+Fundo principal — Off-white:
+#F7F4ED
+
+Bege suave:
+#EDE5D7
+
+Bege claro:
+#F2EEE6
+
+Branco:
+#FFFFFF
+
+Texto principal:
+#243331
+
+Texto secundário:
+#65716E
+
+REGRAS DE USO DAS CORES:
+
+- O azul petróleo #0E5C55 deve ser a principal cor da identidade.
+- Utilizar #083F3B em áreas mais profundas, como footer e alguns títulos/elementos de destaque.
+- Utilizar #F7F4ED como principal cor de fundo do site.
+- Utilizar os tons de bege de maneira sutil para criar separação entre seções.
+- Branco deve aparecer em cards, formulários e áreas que precisem de maior destaque.
+- Textos nunca devem usar azul petróleo claro ou bege quando isso prejudicar a leitura.
+- Manter excelente contraste e acessibilidade.
+- Evitar excesso de cores.
+- NÃO utilizar gradientes exagerados.
+- NÃO utilizar azul hospitalar tradicional.
+- NÃO utilizar verde neon ou cores muito saturadas.
+
+TIPOGRAFIA:
+
+Utilize fontes modernas, elegantes e altamente legíveis.
+
+Fonte principal:
+DM Sans
+
+Use DM Sans para:
+
+- menu
+- textos
+- botões
+- formulários
+- cards
+- informações médicas
+- rodapé
+
+Para títulos principais, pode utilizar:
+DM Sans com pesos 600 ou 700.
+
+Como alternativa para pequenos detalhes editoriais e títulos muito específicos, pode utilizar Cormorant Garamond de maneira MUITO discreta, apenas se realmente melhorar o design. Não utilizar serif em excesso.
+
+HIERARQUIA:
+
+H1:
+Grande, elegante, forte e com bastante espaço ao redor.
+
+H2:
+Destaque moderado, utilizando azul petróleo escuro.
+
+H3:
+Visual limpo e profissional.
+
+Body:
+16px no mínimo em desktop e mobile, com excelente espaçamento entre linhas.
+
+Botões:
+DM Sans, peso 600/700, com aparência moderna e elegante.
+
+ESTILO VISUAL:
+
+Quero um design:
+
+- moderno
+- premium
+- minimalista
+- médico
+- acolhedor
+- sofisticado
+- clean
+- confiável
+- humano
+
+Evite deixar o site com aparência de template pronto.
+
+Utilize bastante espaço em branco/off-white.
+Crie uma sensação de organização, tranquilidade e confiança.
+
+ELEMENTOS:
+
+HEADER:
+
+- Fundo claro/off-white.
+- Menu elegante e espaçado.
+- Logo preservada.
+- Links com azul petróleo escuro.
+- CTA principal em azul petróleo.
+- Header pode ter leve efeito de transparência ou sombra muito sutil ao rolar a página.
+- Evitar header pesado.
+
+BOTÕES:
+
+- Azul petróleo #0E5C55 como principal.
+- Texto branco.
+- Border-radius moderno, mas não exageradamente arredondado.
+- Hover deve utilizar #083F3B.
+- Transições suaves.
+- Botões secundários podem utilizar fundo transparente/off-white com borda azul petróleo.
+
+HERO:
+Criar uma primeira seção visualmente impactante, sofisticada e acolhedora.
+Usar fundo off-white ou combinação de off-white com azul petróleo.
+Dar bastante destaque ao título principal e CTA.
+Se houver imagem de médica/equipe/paciente, valorizar a fotografia com bastante espaço e composição elegante.
+Evitar efeitos visuais exagerados.
+
+SEÇÕES:
+Alternar cuidadosamente entre:
+
+- Off-white #F7F4ED
+- Branco #FFFFFF
+- Bege #EDE5D7
+- Azul petróleo em seções estratégicas
+
+Não transformar cada seção em uma cor diferente. A paleta deve parecer uma identidade visual única e consistente.
+
+CARDS:
+
+- Fundo branco.
+- Bordas muito suaves.
+- Sombras discretas.
+- Pequeno arredondamento.
+- Ícones em azul petróleo.
+- Muito espaço interno.
+- Evitar cards excessivamente coloridos.
+
+ÍCONES:
+Utilizar ícones minimalistas e consistentes.
+Preferencialmente em azul petróleo.
+Evitar ícones muito infantis ou excessivamente detalhados.
+
+FORMULÁRIOS:
+
+- Fundo branco ou off-white.
+- Campos com bordas discretas.
+- Labels bem legíveis.
+- Focus state em azul petróleo.
+- Botão principal em azul petróleo.
+- Visual extremamente limpo.
+
+FOOTER:
+Usar azul petróleo escuro #083F3B.
+Textos claros/brancos.
+Links com boa legibilidade.
+Criar uma área elegante e organizada, sem excesso de informação visual.
+
+ANIMAÇÕES:
+Adicionar apenas microinterações sofisticadas:
+
+- fade-in suave
+- pequenos movimentos ao entrar na tela
+- hover sutil nos botões
+- transições de 200–300ms
+
+NÃO usar:
+
+- animações exageradas
+- elementos pulando
+- efeitos neon
+- parallax excessivo
+- partículas
+- gradientes chamativos
+
+RESPONSIVIDADE:
+O site deve continuar perfeitamente responsivo.
+Verificar principalmente:
+
+- celular
+- tablet
+- desktop
+
+No mobile:
+
+- preservar hierarquia visual
+- manter botões fáceis de tocar
+- evitar textos muito grandes
+- manter espaçamento confortável
+- garantir que imagens não sejam cortadas de maneira inadequada.
+
+IMPORTANTE:
+NÃO remover conteúdos existentes.
+NÃO modificar textos institucionais.
+NÃO modificar informações médicas.
+NÃO alterar funcionalidades.
+NÃO alterar links.
+NÃO alterar formulários ou integrações.
+NÃO alterar a estrutura de navegação sem necessidade.
+
+Faça a alteração diretamente no código existente, reutilizando a estrutura atual sempre que possível.
+
+Antes de finalizar, revise TODAS as páginas e componentes para garantir que a nova identidade visual esteja consistente.
+
+RESULTADO ESPERADO:
+
+Quero que o site pareça uma clínica médica moderna e premium, com uma identidade visual própria, usando principalmente AZUL PETRÓLEO + OFF-WHITE + BEGE.
+
+A sensação final deve ser:
+"clínica médica confiável, sofisticada, acolhedora e moderna."
+
+Priorize elegância, legibilidade, acessibilidade, espaço em branco e consistência visual.
