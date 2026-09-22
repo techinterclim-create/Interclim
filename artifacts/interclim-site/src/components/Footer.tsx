@@ -16,12 +16,6 @@ export function Footer() {
             <p>CNPJ: 05.808.760/0001-43</p>
             <p>CRM: 0002565-PB</p>
           </div>
-          <div>
-            <h3>Contato</h3>
-            <a href="tel:+558332922900">Telefone: (83) 3292-2900</a>
-            <a href="https://wa.me/5583981284599" target="_blank" rel="noreferrer">WhatsApp: (83) 98128-4599</a>
-            <a href="https://instagram.com/interclimoficial" target="_blank" rel="noreferrer">Instagram: @interclimoficial</a>
-          </div>
         </div>
         <div className="footer-bottom">
           <span>© 2026 Interclim. Todos os direitos reservados.</span>
