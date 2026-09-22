@@ -37,7 +37,7 @@ export function Leadership() {
         <div className="director-area">
           <div className="director-photo-frame" data-scroll-reveal>
             <DirectorPhoto
-              src="/images/direcao.jpg"
+              src="/images/direcao.png"
               alt="Dra. Daniele Bessa e Dra. Isabela Bessa juntas"
               label="Foto das médicas"
             />

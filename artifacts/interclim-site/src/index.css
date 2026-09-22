@@ -968,7 +968,7 @@ button:focus-visible, a:focus-visible {
 .director-photo-frame {
   display: grid;
   place-items: center;
-  aspect-ratio: 1127 / 1396;
+  aspect-ratio: 1274 / 1235;
   overflow: hidden;
   border: 1px solid var(--line);
   background: var(--leaf);
