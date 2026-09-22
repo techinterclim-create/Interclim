@@ -734,23 +734,31 @@ button:focus-visible, a:focus-visible {
   box-shadow: 14px 18px 0 rgba(40, 100, 97, .1);
 }
 
-.hero-visual--photo {
-  background: #dcebea;
+.hero-visual--logo {
+  background:
+    radial-gradient(circle at 76% 18%, rgba(222, 215, 203, .44), transparent 32%),
+    linear-gradient(145deg, #fff 0%, #fbf8f2 100%);
 }
 
-.hero-visual--photo::after {
+.hero-visual--logo::after {
   display: none;
 }
 
-.hero-clinic-image {
+.hero-logo-image {
   display: block;
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
-  min-height: 0;
-  object-fit: cover;
-  object-position: center;
+  padding: 34px 30px 40px;
+  object-fit: contain;
+}
+
+.hero-visual-arrow {
+  position: absolute;
+  right: 24px;
+  bottom: 20px;
+  color: var(--gold);
 }
 
 .hero-visual-fallback {
@@ -1374,12 +1382,12 @@ a:focus-visible {
   box-shadow: 0 24px 54px rgba(8, 63, 59, .12), 14px 14px 0 var(--leaf);
 }
 
-.hero-visual--photo {
+.hero-visual--logo {
   background: #fff;
 }
 
-.hero-clinic-image {
-  object-position: center;
+.hero-logo-image {
+  padding: 34px 30px 40px;
 }
 
 .about {
@@ -1695,6 +1703,15 @@ a:focus-visible {
     min-height: 360px;
     border-radius: 20px;
     box-shadow: 0 16px 32px rgba(8, 63, 59, .1), 8px 9px 0 var(--leaf);
+  }
+
+  .hero-logo-image {
+    padding: 28px 18px 40px;
+  }
+
+  .hero-visual-arrow {
+    right: 18px;
+    bottom: 16px;
   }
 
   .about-grid,
