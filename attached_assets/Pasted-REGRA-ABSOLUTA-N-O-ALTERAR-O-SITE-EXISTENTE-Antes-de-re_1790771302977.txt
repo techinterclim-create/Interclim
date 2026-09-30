@@ -1,0 +1,477 @@
+REGRA ABSOLUTA — NÃO ALTERAR O SITE EXISTENTE
+
+Antes de realizar qualquer alteração, analise a estrutura atual do projeto.
+
+NÃO MODIFIQUE NENHUM ELEMENTO VISUAL OU FUNCIONAL EXISTENTE DO site.
+
+NÃO ALTERE:
+
+- cores atuais;
+- paleta de cores;
+- fontes;
+- tamanhos de fontes;
+- espaçamentos;
+- margens;
+- animações;
+- transições;
+- imagens;
+- logotipo;
+- ícones;
+- header/cabeçalho;
+- menu de navegação;
+- footer/rodapé existente;
+- estrutura das páginas existentes;
+- componentes existentes;
+- textos existentes;
+- funcionalidades existentes;
+- responsividade existente;
+- posicionamento dos elementos;
+- configurações de SEO existentes;
+- integrações existentes;
+- scripts existentes.
+
+NÃO faça redesign, modernização, refatoração visual ou qualquer melhoria estética no site existente.
+
+NÃO substitua componentes existentes por versões novas.
+
+NÃO remova nenhum arquivo ou funcionalidade existente.
+
+O ÚNICO OBJETIVO DESTA TAREFA É ADICIONAR DUAS NOVAS PÁGINAS:
+
+1. Política de Privacidade
+2. Termos de Uso
+
+Além disso, apenas adicione os links dessas duas novas páginas ao rodapé existente, sem alterar o design ou a estrutura visual atual do rodapé.
+
+Se for necessário criar novos componentes ou arquivos para as páginas, faça isso de maneira isolada, sem modificar desnecessariamente os componentes existentes.
+
+---
+
+OBJETIVO
+
+Quero adicionar ao meu site institucional da InterClim duas novas páginas públicas:
+
+1. Política de Privacidade
+2. Termos de Uso
+
+As páginas devem ser compatíveis com o site atual e utilizar a mesma identidade visual existente, sem modificar a identidade visual das páginas atuais.
+
+Criar as seguintes URLs:
+
+/politica-de-privacidade
+
+/termos-de-uso
+
+As duas páginas precisam:
+
+- ser públicas;
+- não exigir login;
+- funcionar em celular, tablet e computador;
+- possuir URLs acessíveis diretamente pelo navegador;
+- não apresentar erro 404 quando a URL for acessada diretamente;
+- manter o mesmo header e footer visual já existentes;
+- utilizar as mesmas cores e fontes já utilizadas pelo site;
+- não modificar nenhuma página existente.
+
+---
+
+POLÍTICA DE PRIVACIDADE
+
+Criar a página:
+
+/politica-de-privacidade
+
+Título:
+
+Política de Privacidade – InterClim
+
+Conteúdo:
+
+POLÍTICA DE PRIVACIDADE
+
+Última atualização: [INSERIR DATA]
+
+A InterClim valoriza a privacidade e a proteção dos dados pessoais de seus pacientes, usuários, visitantes e demais pessoas que utilizam seus canais de atendimento e serviços.
+
+Esta Política de Privacidade explica, de forma transparente, como podemos coletar, utilizar, armazenar e proteger informações pessoais quando você acessa nosso site, entra em contato conosco ou utiliza nossos canais de atendimento, incluindo o WhatsApp.
+
+1. QUEM SOMOS
+
+A InterClim é uma clínica que oferece serviços relacionados à área da saúde.
+
+Razão social: [INSERIR RAZÃO SOCIAL]
+
+CNPJ: [INSERIR CNPJ]
+
+Endereço: [INSERIR ENDEREÇO]
+
+E-mail para assuntos relacionados à privacidade: [INSERIR E-MAIL]
+
+2. QUAIS DADOS PODEM SER COLETADOS
+
+Dependendo da forma como você interage com a InterClim, podemos coletar informações como:
+
+- nome;
+- número de telefone;
+- número de WhatsApp;
+- endereço de e-mail;
+- informações fornecidas durante o atendimento;
+- informações relacionadas a solicitações de agendamento;
+- informações necessárias para confirmação ou alteração de agendamentos;
+- mensagens enviadas por você através do WhatsApp ou outros canais de atendimento;
+- informações técnicas relacionadas à utilização do site, como endereço IP, navegador e dispositivo, quando aplicável.
+
+Quando necessário para a prestação de serviços de saúde, também poderão ser tratados dados pessoais sensíveis relacionados à saúde, sempre de acordo com a legislação aplicável e com as medidas de segurança adequadas.
+
+3. COMO OS DADOS SÃO COLETADOS
+
+Os dados podem ser obtidos quando você:
+
+- acessa ou utiliza nosso site;
+- entra em contato com a InterClim;
+- envia mensagens pelo WhatsApp;
+- solicita informações;
+- solicita ou realiza um agendamento;
+- fornece voluntariamente informações durante um atendimento.
+
+4. COMO UTILIZAMOS OS DADOS
+
+Os dados pessoais poderão ser utilizados para:
+
+- responder solicitações e dúvidas;
+- realizar atendimento;
+- realizar, confirmar, alterar ou cancelar agendamentos;
+- fornecer informações sobre serviços;
+- entrar em contato quando necessário para a prestação do serviço;
+- melhorar nossos canais de atendimento;
+- manter a segurança e o funcionamento dos nossos sistemas;
+- cumprir obrigações legais e regulatórias;
+- exercer direitos em processos administrativos ou judiciais;
+- atender outras finalidades legítimas relacionadas às atividades da InterClim.
+
+5. ATENDIMENTO PELO WHATSAPP E AUTOMAÇÃO
+
+A InterClim poderá utilizar o WhatsApp como canal de comunicação e atendimento.
+
+Para facilitar esse atendimento, poderão ser utilizados sistemas automatizados, incluindo ferramentas de automação e/ou agentes de inteligência artificial.
+
+Esses sistemas poderão auxiliar na recepção de mensagens, fornecimento de informações, encaminhamento de solicitações e organização do atendimento.
+
+Quando necessário, o atendimento poderá ser encaminhado para um atendente humano.
+
+O uso de sistemas automatizados não elimina a responsabilidade da InterClim pelo tratamento dos dados pessoais realizado em seus canais, observadas as responsabilidades próprias das plataformas e fornecedores envolvidos.
+
+6. COMPARTILHAMENTO DE DADOS
+
+A InterClim poderá compartilhar dados pessoais com prestadores de serviços e fornecedores de tecnologia quando isso for necessário para a execução das finalidades descritas nesta Política, como serviços de hospedagem, sistemas de atendimento, ferramentas de automação, plataformas de comunicação e outros fornecedores tecnológicos.
+
+Também poderemos compartilhar dados quando necessário para cumprir obrigações legais, regulatórias ou determinações de autoridades competentes.
+
+Sempre que aplicável, buscamos adotar medidas para que terceiros tratem os dados de acordo com a legislação aplicável e com finalidades compatíveis com os serviços prestados.
+
+7. WHATSAPP E PLATAFORMAS DE TERCEIROS
+
+Quando você utiliza o WhatsApp para entrar em contato com a InterClim, suas informações também poderão ser tratadas pela Meta e pelo próprio WhatsApp, de acordo com os respectivos termos e políticas de privacidade dessas plataformas.
+
+A InterClim não controla integralmente as práticas de privacidade, segurança ou tratamento de dados realizadas diretamente pelas plataformas de terceiros.
+
+Recomendamos que o usuário também consulte as políticas de privacidade e os termos de uso das plataformas utilizadas.
+
+8. COOKIES E TECNOLOGIAS SEMELHANTES
+
+O site poderá utilizar cookies e tecnologias semelhantes para permitir seu funcionamento, melhorar a experiência de navegação, obter informações estatísticas e, quando aplicável, realizar análises de utilização.
+
+Quando forem utilizados cookies que dependam de consentimento, serão adotados mecanismos apropriados para obtenção e gerenciamento desse consentimento.
+
+9. SEGURANÇA
+
+A InterClim adota medidas técnicas e administrativas razoáveis para proteger os dados pessoais contra acessos não autorizados, perda, destruição, alteração ou divulgação indevida.
+
+Apesar das medidas adotadas, nenhum sistema conectado à internet pode ser considerado completamente seguro. Por isso, não é possível garantir segurança absoluta contra todos os riscos existentes.
+
+10. ARMAZENAMENTO E RETENÇÃO
+
+Os dados pessoais serão mantidos pelo período necessário para cumprir as finalidades para as quais foram coletados, atender obrigações legais ou regulatórias, exercer direitos e cumprir outras finalidades legítimas previstas na legislação aplicável.
+
+Quando não houver mais necessidade de manutenção dos dados, eles poderão ser eliminados ou anonimizados, observadas as hipóteses legais que permitam ou exijam sua conservação.
+
+11. DIREITOS DO TITULAR
+
+Nos termos da legislação aplicável, especialmente da Lei Geral de Proteção de Dados Pessoais (LGPD), o titular poderá exercer seus direitos relacionados aos seus dados pessoais, incluindo, conforme aplicável:
+
+- confirmação da existência de tratamento;
+- acesso aos dados;
+- correção de dados incompletos, inexatos ou desatualizados;
+- anonimização, bloqueio ou eliminação de dados tratados em determinadas situações;
+- portabilidade, quando aplicável;
+- informação sobre compartilhamento;
+- revogação do consentimento, quando o tratamento estiver baseado nessa hipótese;
+- oposição ao tratamento em determinadas situações;
+- revisão de determinadas decisões automatizadas, quando aplicável.
+
+As solicitações deverão ser encaminhadas para:
+
+E-mail: [INSERIR E-MAIL DE PRIVACIDADE]
+
+A análise de cada solicitação será realizada de acordo com a legislação aplicável e poderá exigir confirmação da identidade do solicitante para proteção contra solicitações fraudulentas.
+
+12. DADOS DE CRIANÇAS E ADOLESCENTES
+
+Quando houver tratamento de dados pessoais de crianças ou adolescentes, a InterClim adotará as medidas previstas na legislação aplicável e buscará observar o melhor interesse desses titulares.
+
+13. ALTERAÇÕES DESTA POLÍTICA
+
+Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações nos serviços, nas tecnologias utilizadas ou na legislação aplicável.
+
+A versão mais recente estará disponível nesta página, acompanhada da respectiva data de atualização.
+
+14. CONTATO
+
+Caso tenha dúvidas sobre esta Política de Privacidade ou sobre o tratamento de seus dados pessoais, entre em contato conosco:
+
+InterClim
+
+E-mail: [INSERIR E-MAIL]
+
+Telefone/WhatsApp: [INSERIR TELEFONE]
+
+Endereço: [INSERIR ENDEREÇO]
+
+---
+
+TERMOS DE USO
+
+Criar a página:
+
+/termos-de-uso
+
+Título:
+
+Termos de Uso – InterClim
+
+Conteúdo:
+
+TERMOS DE USO
+
+Última atualização: [INSERIR DATA]
+
+Bem-vindo ao site e aos canais digitais da InterClim.
+
+Ao acessar ou utilizar nossos canais digitais, você declara estar ciente destes Termos de Uso.
+
+1. SOBRE A INTERCLIM
+
+A InterClim é uma clínica que oferece serviços relacionados à área da saúde.
+
+Razão social: [INSERIR RAZÃO SOCIAL]
+
+CNPJ: [INSERIR CNPJ]
+
+Endereço: [INSERIR ENDEREÇO]
+
+2. ACEITAÇÃO DOS TERMOS
+
+Ao acessar o site ou utilizar os canais digitais da InterClim, o usuário concorda com estes Termos de Uso.
+
+Caso não concorde com alguma disposição destes Termos, recomendamos que não utilize os canais digitais da InterClim.
+
+3. UTILIZAÇÃO DO SITE
+
+O usuário compromete-se a utilizar o site de maneira adequada, legal e de acordo com estes Termos.
+
+É proibido utilizar o site para:
+
+- praticar atividades ilícitas;
+- tentar obter acesso não autorizado a sistemas;
+- prejudicar o funcionamento do site;
+- inserir códigos maliciosos;
+- realizar atividades que possam comprometer a segurança da plataforma;
+- utilizar informações do site de maneira fraudulenta.
+
+4. ATENDIMENTO PELO WHATSAPP
+
+A InterClim poderá disponibilizar atendimento por WhatsApp.
+
+Esse atendimento poderá utilizar sistemas automatizados e ferramentas de inteligência artificial para auxiliar na recepção e organização das solicitações.
+
+O usuário deverá fornecer informações verdadeiras e atualizadas quando necessário para o atendimento.
+
+Quando a situação exigir avaliação ou intervenção humana, o atendimento poderá ser encaminhado para um profissional ou colaborador da InterClim.
+
+5. AGENDAMENTOS
+
+Quando disponibilizado, o site ou o atendimento por WhatsApp poderá permitir solicitações relacionadas a agendamentos.
+
+Uma solicitação de agendamento não deverá ser considerada confirmada até que a confirmação seja realizada pelos canais oficiais da InterClim.
+
+Horários, disponibilidade, valores, procedimentos e demais informações poderão estar sujeitos a alterações.
+
+6. INFORMAÇÕES SOBRE SAÚDE
+
+As informações apresentadas nos canais digitais da InterClim possuem finalidade informativa e de atendimento.
+
+O conteúdo disponibilizado no site ou por sistemas automatizados não substitui uma avaliação médica ou profissional adequada.
+
+Em situações de urgência ou emergência, o usuário deverá procurar atendimento médico adequado ou um serviço de emergência.
+
+7. INTELIGÊNCIA ARTIFICIAL E AUTOMAÇÃO
+
+A InterClim poderá utilizar tecnologias de inteligência artificial e automação para auxiliar no atendimento.
+
+As respostas fornecidas por sistemas automatizados podem apresentar limitações e não devem ser interpretadas como diagnóstico médico, prescrição ou substituição de avaliação realizada por profissional habilitado.
+
+Quando necessário, o usuário poderá ser encaminhado para atendimento humano.
+
+8. PROPRIEDADE INTELECTUAL
+
+Salvo indicação em contrário, os conteúdos disponibilizados no site, incluindo textos, imagens, identidade visual, marcas, logotipos, elementos gráficos e demais materiais, pertencem à InterClim ou são utilizados de forma autorizada.
+
+Não é permitida a reprodução, distribuição, modificação ou utilização comercial desses materiais sem autorização, ressalvadas as hipóteses permitidas pela legislação.
+
+9. LINKS E SERVIÇOS DE TERCEIROS
+
+O site ou os canais digitais da InterClim poderão conter links ou utilizar serviços fornecidos por terceiros.
+
+A InterClim não é responsável pelo conteúdo, funcionamento ou políticas de privacidade de sites e serviços externos.
+
+10. DISPONIBILIDADE DO SITE
+
+A InterClim busca manter seus canais digitais disponíveis, mas não garante que o site estará permanentemente livre de interrupções, erros ou indisponibilidades.
+
+Manutenções, atualizações, falhas técnicas ou fatores externos podem ocasionar indisponibilidade temporária.
+
+11. PRIVACIDADE
+
+O tratamento de dados pessoais realizado pela InterClim é explicado em nossa Política de Privacidade.
+
+Ao utilizar nossos canais digitais, recomendamos que o usuário leia também a Política de Privacidade disponível no site.
+
+12. ALTERAÇÕES DOS TERMOS
+
+A InterClim poderá atualizar estes Termos de Uso periodicamente.
+
+A versão atualizada estará disponível nesta página e passará a valer a partir de sua publicação, salvo quando houver disposição diferente.
+
+13. LEGISLAÇÃO APLICÁVEL
+
+Estes Termos de Uso serão interpretados de acordo com a legislação brasileira aplicável.
+
+14. CONTATO
+
+Em caso de dúvidas sobre estes Termos de Uso, entre em contato:
+
+InterClim
+
+E-mail: [INSERIR E-MAIL]
+
+Telefone/WhatsApp: [INSERIR TELEFONE]
+
+Endereço: [INSERIR ENDEREÇO]
+
+---
+
+LINKS NO RODAPÉ
+
+Adicionar no rodapé EXISTENTE do site, sem modificar seu estilo atual, dois links:
+
+"Política de Privacidade"
+
+"Termos de Uso"
+
+Os links devem apontar respectivamente para:
+
+/politica-de-privacidade
+
+/termos-de-uso
+
+Utilizar exatamente o mesmo estilo visual dos links que já existem no rodapé.
+
+NÃO redesenhar o rodapé.
+
+NÃO mudar sua estrutura visual.
+
+Apenas adicionar os dois links.
+
+---
+
+INFORMAÇÕES INSTITUCIONAIS
+
+Antes de inserir qualquer informação institucional, procure no projeto se a InterClim já possui:
+
+- razão social;
+- CNPJ;
+- endereço;
+- telefone;
+- WhatsApp;
+- e-mail.
+
+Se essas informações já existirem no projeto, reutilize-as.
+
+NÃO invente nenhuma informação.
+
+Se alguma informação não existir, mantenha o placeholder:
+
+[INSERIR RAZÃO SOCIAL]
+
+[INSERIR CNPJ]
+
+[INSERIR ENDEREÇO]
+
+[INSERIR E-MAIL]
+
+[INSERIR TELEFONE]
+
+[INSERIR DATA]
+
+---
+
+REGRAS TÉCNICAS FINAIS
+
+1. Não modificar páginas existentes.
+
+2. Não modificar componentes existentes desnecessariamente.
+
+3. Não alterar CSS global existente.
+
+4. Não alterar variáveis de cores existentes.
+
+5. Não alterar fontes existentes.
+
+6. Não alterar responsividade existente.
+
+7. Não alterar funcionalidades existentes.
+
+8. Não alterar integrações existentes.
+
+9. Não remover arquivos.
+
+10. Não fazer refatoração geral do projeto.
+
+11. Criar somente os arquivos/componentes necessários para as duas novas páginas.
+
+12. Se precisar criar CSS específico, utilize estilos isolados das novas páginas para evitar qualquer impacto no restante do site.
+
+13. As novas páginas devem herdar ou reutilizar a identidade visual existente.
+
+14. Testar as duas rotas antes de finalizar.
+
+15. Verificar que as páginas podem ser acessadas diretamente:
+
+/politica-de-privacidade
+
+/termos-de-uso
+
+16. Verificar que os links do rodapé funcionam.
+
+17. Verificar que nenhuma página existente foi alterada visual ou funcionalmente.
+
+18. Ao finalizar, informe exatamente:
+
+- quais arquivos foram criados;
+- quais arquivos existentes foram modificados;
+- quais URLs foram criadas;
+- se as duas rotas foram testadas com sucesso.
+
+Se algum arquivo existente precisar obrigatoriamente ser modificado para registrar as novas rotas, faça somente a alteração mínima necessária e não altere nenhuma outra parte do arquivo.
+
+NOVAMENTE: O OBJETIVO É SOMENTE ADICIONAR AS DUAS PÁGINAS E OS DOIS LINKS. NÃO FAÇA NENHUMA OUTRA ALTERAÇÃO NO SITE.
